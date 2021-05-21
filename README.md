@@ -1,0 +1,2 @@
+# ventaCosmeticos
+VentaCosmeticos Django
